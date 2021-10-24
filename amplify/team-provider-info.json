@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bbva-dev-230116-authRole",
+      "UnauthRoleArn": "arn:aws:iam::963673112435:role/amplify-bbva-dev-230116-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::963673112435:role/amplify-bbva-dev-230116-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bbva-dev-230116-deployment",
+      "UnauthRoleName": "amplify-bbva-dev-230116-unauthRole",
+      "StackName": "amplify-bbva-dev-230116",
+      "StackId": "arn:aws:cloudformation:us-east-1:963673112435:stack/amplify-bbva-dev-230116/0f0b4310-347f-11ec-ac2b-0ee5193d3149",
+      "AmplifyAppId": "dpaz3neiby8wn"
+    },
+    "categories": {
+      "auth": {
+        "bbvaf4b4f8c5": {}
+      }
+    }
+  }
+}
